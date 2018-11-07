@@ -1,0 +1,10 @@
+Adyanissa Farsya Kirana
+1606918212
+
+1. Fungsi BCryptPasswordEncoder
+
+BCryptPasswordEncoder berfungsi untuk menjaga kerahasiaan password kita dengan melakukan encoding.
+
+2. Apa yang dilakukan baris Set<GrantedAuthority>?
+
+Baris tersebut melakukan pembagian role. Role berbeda akan dapat memiliki authority yang berbeda pula.
